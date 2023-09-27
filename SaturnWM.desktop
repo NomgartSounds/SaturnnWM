@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SaturnWM
+Comment=SaturnWM Window Manager
+Exec=SaturnWM
+Icon=SaturnWM
+Type=XSession
